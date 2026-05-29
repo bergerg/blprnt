@@ -1,0 +1,22 @@
+# .pre-commit-config.yaml
+# Uncomment and configure hooks below.
+# See https://pre-commit.com for docs.
+# Run `pre-commit install` to activate, then `pre-commit run --all-files` to test.
+#
+# Available hook repositories:
+#   https://github.com/pre-commit/pre-commit-hooks     — generic git hooks
+#   https://github.com/astral-sh/ruff-pre-commit        — Python linter/formatter
+#   https://github.com/pre-commit/mirrors-prettier      — JS/TS formatter
+#   https://github.com/pre-commit/mirrors-eslint        — JS/TS linter
+#   https://github.com/shellcheck-py/shellcheck-py      — shell script checking
+#
+# repos:
+#   - repo: https://github.com/pre-commit/pre-commit-hooks
+#     rev: v4.6.0
+#     hooks:
+#       - id: trailing-whitespace
+#       - id: end-of-file-fixer
+#       - id: check-yaml
+#       - id: check-toml
+#       - id: check-json
+#       - id: check-added-large-files
