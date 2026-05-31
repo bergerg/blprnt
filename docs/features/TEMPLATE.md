@@ -2,13 +2,19 @@
 
 One-line summary of what this feature does.
 
-## Requirements
+## Success metrics
 
-- Bullet list of functional requirements.
+Measurable indicators that this feature works as intended.
 
-## Acceptance criteria
+- _e.g., "Password reset email delivered within 5 seconds (p99)"_
+- _e.g., "Search results return in < 200ms for 99% of queries"_
 
-- Bullet list of conditions that must be true for this feature to be done.
+## Validation
+
+How we confirm success — test, observe, monitor.
+
+- _e.g., "User can complete the happy path end-to-end without error"_
+- _e.g., "Error rate < 0.1% over a 24h window"_
 
 ## Dependencies
 
