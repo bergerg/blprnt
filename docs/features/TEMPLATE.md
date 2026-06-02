@@ -20,6 +20,10 @@ How we confirm success — test, observe, monitor.
 
 - Links to `docs/dependencies/<name>/DEPENDENCY.md` that this feature relies on.
 
+## BDD _(optional)_
+
+Add `BDD.md` in this directory to define concrete scenarios using Given-When-Then. Use [`docs/BDD_TEMPLATE.md`](../BDD_TEMPLATE.md) as a starting point. This helps validate that the implemented code matches intent before writing code.
+
 ## Notes
 
 Design decisions, trade-offs, open questions.

@@ -13,13 +13,13 @@ This directory defines the application — its intent, logic, and design — in 
 
 ## Features
 
-Each feature lives under `docs/features/<feature-name>/FEATURE.md`. Every new feature must be registered here as a link with a one-line purpose.
+Each feature lives under `docs/features/<feature-name>/FEATURE.md`. Every new feature must be registered here as a link with a one-line purpose. You may optionally add a `BDD.md` alongside with Given-When-Then scenarios (see [TEMPLATE.md](./features/TEMPLATE.md)).
 
 - _List features here as they are created._
 
 ## Use Cases
 
-Each use case lives under `docs/use-cases/<use-case-name>/USE_CASE.md`. Use cases describe an actor achieving a goal by composing multiple features. Every use case must be registered here as a link with a one-line description.
+Each use case lives under `docs/use-cases/<use-case-name>/USE_CASE.md`. Use cases describe an actor achieving a goal by composing multiple features. Every use case must be registered here as a link with a one-line description. You may optionally add a `BDD.md` alongside with Given-When-Then scenarios (see [TEMPLATE.md](./use-cases/TEMPLATE.md)).
 
 - _List use cases here as they are created._
 

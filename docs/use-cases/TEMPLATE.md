@@ -41,6 +41,10 @@ How we confirm the full flow works end-to-end.
 - _e.g., "New user lands on dashboard with all expected data"_
 - _e.g., "All downstream systems receive expected webhooks"_
 
+## BDD _(optional)_
+
+Add `BDD.md` in this directory to define concrete scenarios using Given-When-Then. Use [`docs/BDD_TEMPLATE.md`](../BDD_TEMPLATE.md) as a starting point. This helps validate that the implemented code matches intent before writing code.
+
 ## Related features
 
 - [<feature-name>](../features/<feature-name>/FEATURE.md) — why it's involved.
